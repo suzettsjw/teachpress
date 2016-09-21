@@ -1,4 +1,4 @@
-?php
+<?php
 /**
  * This file contains all general functions of teachpress bibtex core
  * 
